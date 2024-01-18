@@ -1,1 +1,2 @@
-# CS402_Employee_database_in_C
+# Leet Code
+by Thitipun Srinarmwong. Meeee
