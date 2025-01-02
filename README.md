@@ -1,6 +1,7 @@
 # Leet Code
 by Thitipun Srinarmwong. Meeee
 
-Not categorized, only topic number available
-zz
-a
+By Topic Number.
+
+2023 Python
+2024 C#
